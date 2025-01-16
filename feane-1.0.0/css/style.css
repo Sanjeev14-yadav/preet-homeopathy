@@ -118,6 +118,7 @@ a:focus {
 }
 
 .sub_page .hero_area {
+  background-color: black;
   min-height: auto;
 }
 
@@ -176,7 +177,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #ffbe33;
+  color: #d0ff00;
 }
 
 .custom_nav-container .nav_search-btn {
