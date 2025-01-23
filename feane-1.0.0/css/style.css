@@ -1005,4 +1005,63 @@ a:focus {
 .footer_section .footer-info p a {
   color: inherit;
 }
+
+
+
+
+
+.custom-title {
+  font-size: 3rem; /* Increases the font size of the title */
+  font-weight: bold;
+}
+
+.custom-text {
+  font-size: 1.5rem; /* Increases the font size of the paragraph */
+  line-height: 1.8; /* Improves readability */
+}
+
+.custom-image {
+  max-width: 100%; /* Ensures the image takes up the full width */
+  height: auto;
+  max-height: 400px; /* Sets a larger height for the image */
+  object-fit: cover; /* Ensures the image is well-fitted */
+}
+
+.detail-box {
+  padding: 20px; /* Adds spacing for the text container */
+}
+
+.carousel .container {
+  max-width: 90%; /* Expands the overall width of the container */
+}
+
+.btn1 {
+  font-size: 1.25rem; /* Increases button text size */
+  padding: 10px 20px; /* Adds padding to the button */
+}
+.custom-title {
+  font-size: 4rem; /* Significantly increases the font size of the title */
+  font-weight: bold; /* Makes the title bold */
+  color: #333; /* Adds a neutral color for better readability */
+}
+
+.custom-text {
+  font-size: 2rem; /* Increases the font size of the paragraph text */
+  line-height: 2; /* Improves spacing between lines */
+  color: #555; /* Slightly lighter color for the paragraph */
+}
+
+.detail-box {
+  padding: 30px; /* Adds more spacing around the text for emphasis */
+}
+
+.btn1 {
+  font-size: 1.5rem; /* Makes the button text larger */
+  padding: 12px 24px; /* Increases button padding for better proportions */
+  background-color: #5a67d8; /* Adds a vibrant background color to the button */
+  color: #fff; /* Ensures the button text is readable */
+  border-radius: 5px; /* Smoothens button edges */
+  text-transform: uppercase; /* Makes the button text uppercase */
+}
+
 /*# sourceMappingURL=style.css.map */
